@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Simple section for GIT Training.
+
 ## Description
 
-Testing description
+Testing description for GIT Training. Again.
