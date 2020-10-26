@@ -17,3 +17,7 @@ Testing description for GIT Training. Again.
 ## Copyright
 
 Git.Training 2020
+
+## How To Contribute
+
+Test
