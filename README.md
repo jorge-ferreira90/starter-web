@@ -13,3 +13,7 @@ Simple section for GIT Training.
 ## Description
 
 Testing description for GIT Training. Again.
+
+## Copyright
+
+Git.Training 2020
