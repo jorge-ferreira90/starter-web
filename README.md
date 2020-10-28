@@ -8,11 +8,11 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Simple section for GIT Training.
+Simple section for GIT Training. 
 
 ## Description
 
-Testing description for GIT Training. Again.
+New commit for stash section.
 
 ## Copyright
 
